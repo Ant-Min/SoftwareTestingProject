@@ -1,2 +1,2 @@
 # SoftwareTestingProject
-For my Software testing and Automation class
+For my "Software Testing and Automation" class
